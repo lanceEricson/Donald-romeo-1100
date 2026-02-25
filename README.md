@@ -1,4 +1,4 @@
-# :wave: Hello, I'm Lurie Romanov.
+# :wave: Hello, I'm Lance Ericson.
 
 I'm Romanov, **React, Node.js, Python, AI | SaaS, CRM, Cloud & Data Platforms** working remotely since 2022 :rocket:
 
